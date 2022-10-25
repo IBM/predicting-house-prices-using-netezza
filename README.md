@@ -23,7 +23,7 @@
 
 4. Navigate to the folder where the repository resides and download the dependencies required to run the application.
 
-```python install -r requirements.txt```
+```pip3 install -r requirements.txt```
 
 5. After successful installation of all the dependencies, start the streamlit application.
 
